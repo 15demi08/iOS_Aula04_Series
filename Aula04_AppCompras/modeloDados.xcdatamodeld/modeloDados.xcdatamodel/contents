@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H1323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Serie" representedClassName="Serie" syncable="YES" codeGenerationType="class">
+        <attribute name="assistida" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="nome" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Serie" positionX="-2355.29296875" positionY="-1107.67578125" width="225.86328125" height="88"/>
+    </elements>
+</model>
